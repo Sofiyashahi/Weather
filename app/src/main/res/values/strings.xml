@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="intro_text">Weather matters, \n We\'ve got the details</string>
+</resources>
